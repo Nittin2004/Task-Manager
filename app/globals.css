@@ -1,2 +1,9 @@
 @import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
 
+
+#about {
+  scroll-margin-top: 80px; /* height of your navbar */
+}
